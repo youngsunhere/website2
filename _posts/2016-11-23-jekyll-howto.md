@@ -3,17 +3,14 @@ layout: post
 title: jekyll-howto
 ---
 
-#소개: Jekyll 로 웹사이트 만들기 - 가장 간단하게 <br/>
+Jekyll로 웹사이트 만들 때에도 여러가지 방법이 있다. 그 중에서도 jekyll-now 라는 repository를 그대로 복사해서 사용하는 아주 편리한 방법을 소개한다.
 
-Jekyll로도 웹사이트 만드는 것에 여러가지 방법이 있다. <br/>그중에서 jekyll-now 라고 이미 누가 만들어 놓은 repository를 그대로 복사해서 사용하는것이 가장 편리하다.
+1.	깃헙에 로그인한다.
 
+2.	Jekyll Now repositoy Fork 하기 
 
-#따라하기 <br/>
+	[Jekyll Now](https://github.com/barryclark/jekyll-now) repository에 들어가서 오른쪽 상단의 fork를 누른다. (시간이 약간 소요된다) <br/>다 됐다면 이제 jekyll-now의 복사본을 한부 갖게 된 것이다.
 
-1. 깃헙에 로그인한다.
-
-2. https://github.com/barryclark/jekyll-now 에 들어가서,
-오른쪽 상단의 fork를 누른다.<br/> 시간이 약간 소요된다. <br/>다 됐다면 이제 jekyll-now의 복사본을 한부 갖게 된 것이다.
 3. 깃헙에서는 githup pages라는 서비스를 통해 깃헙 한 계정당 하나의 웹사이트를 호스팅하게 해준다. 이 서비스를 이용하기 위해선 웹사이트로 만들 repo의 이름을 **사용자명.github.io** 형식으로 바꿔주기만 하면 된다. repo 이름을 바꾸려면, 위에서 fork해 받은 repo의 settings 메뉴에 들어가서 이름을 "사용자명.github.io"로 변경해준다.
 
 	*두둥! ~.github.io 이런 웹사이트에 많이 들어가보지 않았던가? 특히 우리가 좋아하는, 소위 머신 러닝좀 한다는 사람들의 웹사이트 주소가 이런 경우가 많다. 왜냐면 이들도 지금 우리처럼 깃헙 페이지스를 통해서 뚝딱뚝딱 웹사이트를 만들었기 때문이다.*
