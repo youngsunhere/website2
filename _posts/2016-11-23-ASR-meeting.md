@@ -1,5 +1,5 @@
 ---
-type: post
+layout: post
 title: ASR-meeting
 date: 2016-11-23
 ---
