@@ -1,9 +1,5 @@
----
-layout: post
-title: jekyll-howto
----
 
-가장 간단하게 지킬 사용하기<br/>
+#가장 간단하게 지킬 사용하기<br/>#
 
 여러가지 방법이 있으나 그중에서 jekyll-now 라고 누군가 만들어 놓은 repository를 그대로
 복사해서 사용하는것이 가장 편리하다.
@@ -13,7 +9,7 @@ title: jekyll-howto
 1. 깃헙에 로그인한다.
 
 2. https://github.com/barryclark/jekyll-now 에 들어가서,
-오른쪽 상단의 fork를 누른다. 시간이 약간 소요된다. 다 됐다면 이제 난 jekyll-now 라는 repo를 복사본을 한부 갖게 된 것이다.
+오른쪽 상단의 fork를 누른다.<br/> 시간이 약간 소요된다. <br/>다 됐다면 이제 jekyll-now의 복사본을 한부 갖게 된 것이다.
 3. 깃헙에서는 githup pages라는 서비스를 통해 깃헙 한 계정당 하나의 웹사이트를 호스팅하게 해준다. 이 서비스를 이용하기 위해선 웹사이트로 만들 repo의 이름을 **사용자명.github.io** 형식으로 바꿔주기만 하면 된다. repo 이름을 바꾸려면, 위에서 fork해 받은 repo의 settings 메뉴에 들어가서 이름을 "사용자명.github.io"로 변경해준다.
 
 	*두둥! ~.github.io 이런 웹사이트에 많이 들어가보지 않았던가? 특히 우리가 좋아하는, 소위 머신 러닝좀 한다는 사람들의 웹사이트 주소가 이런 경우가 많다. 왜냐면 이들도 지금 우리처럼 깃헙 페이지스를 통해서 뚝딱뚝딱 웹사이트를 만들었기 때문이다.*
@@ -25,7 +21,7 @@ title: jekyll-howto
 
 		$ git clone https://github.com/사용자명/사용자명.github.io.git
 		
-										* 맨 뒤의 저 '.git'을 빼먹지 않도록 한다.
+								* 맨 뒤의 저 '.git'을 빼먹지 않도록!
 
 8. 복사해온 repo 디렉토리로 간다.
 
