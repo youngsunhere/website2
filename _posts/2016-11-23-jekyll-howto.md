@@ -4,7 +4,7 @@ title: jekyll-howto
 date: 2016-11-23
 ---
 
-![Jekyll Now Theme Screenshot](/Users/youngsuncho/youngsunhere.github.io/images/step1.gif "HeHe")
+![Jekyll Now Theme Screenshot](/images/step1.gif "HeHe")
 
 
 Jekyll로 웹사이트 만들 때에도 여러가지 방법이 있다. <br/> 그 중에서도 jekyll-now 라는 repository를 그대로 복사해서 사용하는 아주 편리한 방법을 소개한다.
