@@ -75,9 +75,10 @@ Stanford의 Andrej Karpathy 블로그에서 간단한 demo인데, 해보기 쉬�
 
 		python2 sample.py
 		
-			아무 옵션을 안 주면 기본적으로 100자 sampling을 해줍니다.
-			다른 길이로 뽑아보려면 아래처럼 실행해주시면 됩니다 (예: 20자를 뽑아보렴)
-			python2 sample.py -n 20  
+아무 옵션을 안 주면 기본적으로 100자 sampling을 해줍니다. 다른 길이로 뽑아보려면 아래처럼 실행합니다.
+(예: 20자만 뽑아보렴)
+
+		python2 sample.py -n 20  
 			
 
 <br/>토지 1-2권의 글자 단위 RNN 모델링 결과
