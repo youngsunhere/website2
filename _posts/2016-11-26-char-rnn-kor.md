@@ -6,17 +6,22 @@ date: 2016-11-26
 
 <br/><br/><br/>
 
+character-level RNN 모델링 예시
 
-char-level RNN 모델링
+코드 출처
 -
 
 Stanford의 Andrej Karpathy 블로그에서 간단한 demo인데, 해보기 쉬워서 공유합니다.
 
 
-(1) Andrej Karpathy's char-level rnn 예시: https://github.com/karpathy/char-rnn <br/>
-(2) **제가 돌려본 버젼**: https://github.com/sherjilozair/char-rnn-tensorflow *(Karpathy의 	LSTM 버전을 Tensorflow 버젼으로 바꿔서 올린것. 원래는 Torch로 작성)*
+(1) [Karpathy's char-level rnn code]: (https://github.com/karpathy/char-rnn) <br/>
+
+
+(2) [**제가 돌려본 버젼**]: (https://github.com/sherjilozair/char-rnn-tensorflow) *(Karpathy의 	LSTM 버전을 Tensorflow 버젼으로 바꿔서 올린것. 원래는 Torch로 작성)*
 
 ***(2)를 fork 하고, inchon26 서버에 가져온 다음에 실행했어요.***
+
+
 <br/>해보기
 -
 
