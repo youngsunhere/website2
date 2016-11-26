@@ -14,12 +14,10 @@ character-level RNN 모델링 예시
 Stanford의 Andrej Karpathy 블로그에서 간단한 demo인데, 해보기 쉬워서 공유합니다.
 
 
-(1) [Karpathy's char-level rnn code]: (https://github.com/karpathy/char-rnn) <br/>
+[Karpathy's char-level rnn code]: (https://github.com/karpathy/char-rnn) <br/>
 
 
-(2) [**제가 돌려본 버젼**]: (https://github.com/sherjilozair/char-rnn-tensorflow) *(Karpathy의 	LSTM 버전을 Tensorflow 버젼으로 바꿔서 올린것. 원래는 Torch로 작성)*
-
-***(2)를 fork 하고, inchon26 서버에 가져온 다음에 실행했어요.***
+[**제가 돌려본 버젼**]: (https://github.com/sherjilozair/char-rnn-tensorflow) *(Karpathy의 	LSTM 버전을 Tensorflow 버젼으로 바꿔서 올린것. 원래는 Torch로 작성)*
 
 
 <br/>해보기
@@ -30,7 +28,7 @@ Stanford의 Andrej Karpathy 블로그에서 간단한 demo인데, 해보기 쉬�
 	
 		텍스트   : 박경리 (토지) 1~2부 (전체 5부)
 		처리단위  : 글자
-		분량 	: 총 998,862 자
+		분량 : 총 998,862 자
 
 
 
