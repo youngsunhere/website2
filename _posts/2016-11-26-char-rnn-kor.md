@@ -34,8 +34,7 @@ _분량_ : 총 998,862 자<br/>
 	cd char_rnn_tensorflow
 	python2 train.py
 	
- 만약 다른 데이터 (ex 토지)로 돌리려면, 텍스트 파일 input.txt를 담은 폴더를 data아래에 넣은후 아래처럼 실행하세요.<br/>
- (참고: 한글은 꼭 **utf8** 포맷으로)
+ 만약 다른 데이터 (ex 토지)로 돌리려면, 텍스트 파일 input.txt를 담은 폴더를 data아래에 넣은후 아래처럼 실행하세요.(참고: 한글은 꼭 **utf8** 포맷으로)
 
 	data/새폴더명/input.txt<br/>
 	train.py --data_dir data/새폴더명  
