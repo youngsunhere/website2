@@ -13,10 +13,10 @@ character-level RNN 모델링 예시
 Stanford의 Andrej Karpathy 블로그에서 공개한 잘 알려진 demo인데, 해보기 쉬워서 공유합니다.
 
 
-[Karpathy's char-level rnn code]: (https://github.com/karpathy/char-rnn) <br/>
+[Karpathy's char-level rnn code] (https://github.com/karpathy/char-rnn) <br/>
 **-> Torch로 되어있어서 (사용언어: lua) 당장 해보기 불편함**
 
-[**제가 돌려본 버젼**]: (https://github.com/sherjilozair/char-rnn-tensorflow) *(Karpathy의 	LSTM 버전을 Tensorflow 버젼으로 바꿔서 올린것)*
+[**제가 돌려본 버젼**] (https://github.com/sherjilozair/char-rnn-tensorflow) <br/> *(Karpathy의 	LSTM 버전을 Tensorflow 버젼으로 누군가 바꿔서 올린것)*
 
 
 <br/>해보기
