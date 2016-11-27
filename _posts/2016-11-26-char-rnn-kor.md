@@ -29,10 +29,17 @@ _처리단위_ : 글자<br/>
 _분량_ : 총 998,862 자<br/>
 
 
-실행하는법:
+실행폴더 가져오기 (인촌 서버 기준):
 
+	ssh -p 2626 사용자명@106.254.15.69
+	cp -r ../hdd2tb/char-rnn-tensorflow .
 	cd char_rnn_tensorflow
-	python2 train.py
+
+실행하기
+
+	python2 train.py (기본 데이터인 tinyshakespeare를 인풋으로 씀)
+	또는
+	python2 train.py --data_dir data/toji (한국어 데이터 toji 사용하기)
 	
  만약 다른 데이터 (ex 토지)로 돌리려면, 텍스트 파일 input.txt를 담은 폴더를 data아래에 넣은후 아래처럼 실행하세요.(참고: 한글은 꼭 **utf8** 포맷으로)
 
