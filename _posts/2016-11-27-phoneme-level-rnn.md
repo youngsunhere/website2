@@ -47,8 +47,7 @@ data = open('toji.txt', 'r').read() # should be simple plain text file
 자모단위로 쪼개기 위해  `split_syllables` 를 쓸거에요. 다음 라인을 추가해 주었습니다.
 
 ```python
-data = split_syllables(data) #
-
+data = split_syllables(data)
 ```
 
 자모 분해가 됐습니다.
