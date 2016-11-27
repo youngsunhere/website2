@@ -10,7 +10,7 @@ date: 2016-11-27
 2. 한글을 **자모 단위로 쪼개서** character-level-rnn을 해본다
 
 # 코드 출처
-'Minimal character-level language model with a Vanilla Recurrent Neural Network, in Python/numpy' (source: [Karpathy github gist] (https://gist.github.com/karpathy/d4dee566867f8291f086#file-min-char-rnn-py-L17))
+'Minimal character-level language model with a Vanilla Recurrent Neural Network, in Python/numpy' (source: [Karpathy github gist](https://gist.github.com/karpathy/d4dee566867f8291f086#file-min-char-rnn-py-L17))
 
 
 # 코드 플로우
