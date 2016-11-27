@@ -15,7 +15,7 @@ date: 2016-11-27
 #### 인촌 서버 상의 저장 위치
 
 	inchon26-worker:/home/hdd2tb/min-rnn$
-									*min-rnn 통째로 가져다 쓰시면 됩니다.
+		*min-rnn 통째로 가져다 쓰시면 됩니다.
 
 
 # 코드 플로우
