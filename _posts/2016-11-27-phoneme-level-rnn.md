@@ -9,7 +9,7 @@ date: 2016-11-27
 1. 모듈을 안 쓰고 가장 간단하게 RNN을 짜는 것을 이해한다.
 2. 한글을 **자모 단위로 쪼개서** character-level-rnn을 해본다
 
-# 코드 출처
+# 사용될 코드
 'Minimal character-level language model with a Vanilla Recurrent Neural Network, in Python/numpy' (source: [Karpathy github gist](https://gist.github.com/karpathy/d4dee566867f8291f086#file-min-char-rnn-py-L17))
 
 
