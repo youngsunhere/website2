@@ -1,7 +1,7 @@
 ---
 layout: post
 title: tensorflow install
-date: 2016-11-26
+date: 2016-12-01
 ---
 
 
