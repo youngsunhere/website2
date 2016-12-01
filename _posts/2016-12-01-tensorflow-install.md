@@ -27,7 +27,7 @@ date: 2016-12-01
 
 4. ptb word_lm.py를 돌리기. 
 	
-	data path 는 실제로 데이터가 위치로 바꿔준다.  
+	data path 는 실제 내 데이터의 위치로 변경해줘야 한다.  
 	([데이터 받기] (http://www.fit.vutbr.cz/~imikolov/rnnlm/simple-examples.tgz); 참고: 링크에서 simple-example 파일을 받은 후에 그 안에 있는 data 디렉토리가 아래의 data path로 지정하삼.)
  
 		python ptb_word_lm.py --data_path=/tmp/simple-examples/data/ 	--model small
