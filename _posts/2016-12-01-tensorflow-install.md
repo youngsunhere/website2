@@ -50,7 +50,7 @@ date: 2016-12-01
 		pip install tensorflow
 		
 
-	다 고쳤으면 다시 해본다...
+다 고쳤으면 다시 해본다...
 	
 		Youngsuns-MacBook-Air-2:ptb yscho$ python ptb_word_lm.py --data_path=/Users/youngsuncho/db/		simple-examples/simple-examples/data --model small
 		WARNING:tensorflow:Standard services need a 'logdir' passed to the SessionManager
