@@ -49,7 +49,8 @@ date: 2016-12-01
 		pip uninstall protobuf
 		pip install tensorflow
 		
-	clone 해 놓은 깃은 그대로 있을테니 (방금 지운 tensorflow 디렉토리 안에다가 받지 않았다면...) 다시 위의 3번으로 돌아가서 3-4를 실행해 본다 .
+
+	다 고쳤으면 다시 해본다...
 	
 		Youngsuns-MacBook-Air-2:ptb yscho$ python ptb_word_lm.py --data_path=/Users/youngsuncho/db/		simple-examples/simple-examples/data --model small
 		WARNING:tensorflow:Standard services need a 'logdir' passed to the SessionManager
@@ -62,7 +63,7 @@ date: 2016-12-01
 		0.504 perplexity: 392.499 speed: 645 wps
 		0.604 perplexity: 353.477 speed: 646 wps
 
-이제 잘 된다~
+이제 잘 될 거심!
 
 -youngsunhere
 	
