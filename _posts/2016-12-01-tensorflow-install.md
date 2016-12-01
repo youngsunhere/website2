@@ -28,6 +28,8 @@ date: 2016-12-01
 4. ptb word_lm.py를 돌리기. 
 	
 	data path 는 실제 내 데이터의 위치로 변경해줘야 한다.  
+	
+	
 	([데이터 받기] (http://www.fit.vutbr.cz/~imikolov/rnnlm/simple-examples.tgz); 참고: 링크에서 simple-example 파일을 받은 후에 그 안에 있는 data 디렉토리가 아래의 data path로 지정하삼.)
  
 		python ptb_word_lm.py --data_path=/tmp/simple-examples/data/ 	--model small
@@ -43,7 +45,7 @@ date: 2016-12-01
 		please exit the tensorflow source tree, and relaunch your python interpreter
 		from there.
 		
- 여기저기 뒤져보니, **protobuf** 라는 모듈이 일으키는 문제라고 한다. 해결 방법은 간단하다. 텐서플로 지우고, **protobuf** 지우고, 다시 tensorflow 깐다!
+ 여기저기 뒤져보니, **protobuf** 라는 모듈이 일으키는 문제라고 한다.  해결 방법은 간단하다. 텐서플로 지우고, **protobuf** 지우고, 다시 tensorflow 깐다!
 		
 		pip uninstall tensorflow
 		pip uninstall protobuf
@@ -51,6 +53,7 @@ date: 2016-12-01
 		
 
 다 고쳤으면 다시 해본다...
+	
 	
 		Youngsuns-MacBook-Air-2:ptb yscho$ python ptb_word_lm.py --data_path=/Users/youngsuncho/db/		simple-examples/simple-examples/data --model small
 		WARNING:tensorflow:Standard services need a 'logdir' passed to the SessionManager
