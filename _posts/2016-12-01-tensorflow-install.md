@@ -5,7 +5,7 @@ date: 2016-12-01
 ---
 
 
-#텐서플로 ptbwordlm.py 안 꼬이고 쓰기
+# 텐서플로 ptbwordlm.py 안 꼬이고 쓰기
 
 
 
