@@ -18,7 +18,7 @@ For each frame being decoded, instead of outputting the single most-likely phone
 		.
 		.
 
-* So the 'lexicon' in this case should just map itself to itself. **In the new lexicon, each phoneme is regarded as a word.** This is just like the lexicon in the well-known TIMIT recipe. 
+* So the 'lexicon' in this case should just map itself onto itself. **In the new lexicon, each phoneme is regarded as a word.** This is just like the lexicon in the well-known TIMIT recipe. 
 
 		aa	aa
 		c0	c0
